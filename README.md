@@ -7,7 +7,7 @@ These instructions have been tested on
 [minikube kubernetes](https://kubernetes.io/docs/setup/learning-environment/minikube/#minikube-features) running on a 
 local mac OS X deployment.
 
-## Local Minikub Setup
+## Local Minikube Setup
 
 First you must [install minikube](https://kubernetes.io/docs/setup/learning-environment/minikube/#installation).
 
